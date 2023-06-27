@@ -31,5 +31,5 @@ The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of 
 ## BHL Coffee article
 Sample text here
  
-.ve-iframe https://www.biodiversitylibrary.org/page/41846780#page/448/mode/1up
+.ve-iframe https://archive.org/details/coffeeplanting00hill
    
